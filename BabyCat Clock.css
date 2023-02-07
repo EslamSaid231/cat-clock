@@ -1,0 +1,66 @@
+* {
+  background-color: #f16059;
+}
+.header-title {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 30px;
+}
+.clock {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 32px;
+}
+#timeEvent {
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: 30px;
+}
+.header {
+  font-family: "Bungee Shade", cursive;
+  font-weight: bold;
+  font-size: 50px;
+}
+.lolcatImage {
+  max-width: 30em;
+}
+body {
+  font: 14px/26px "Bungee", Helvetica, Arial, sans-serif;
+  color: #222;
+  margin: 0px;
+  padding: 0px;
+  text-transform: uppercase;
+  text-align: center;
+  gap: 30px;
+}
+br {
+  background-color: #f16059;
+}
+.clocktime {
+  background-color: #f16059;
+  padding-top: 15px;
+  font-family: cursive;
+  font-weight: bold;
+  position: relative;
+}
+.clocktime select {
+  background-color: aliceblue;
+}
+#partyTimeButton {
+  color: white;
+  background-color: #222;
+  height: 50px;
+  width: 300px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 0;
+  margin-top: 20px;
+  font-size: 18px;
+}
+footer p {
+  text-transform: uppercase;
+  color: #222;
+  font-size: 12px;
+  padding-top: 15px;
+  font-family: cursive;
+}
